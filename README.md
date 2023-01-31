@@ -1,4 +1,4 @@
-# Welcome to My Github Profile
+# Hey there :wave: Welcome to My Github Profile
 
 I am a IT-Security enthusiast, Unix/Linux administrator, and software developer with a passion for technology and innovation. My experience in these fields allows me to bring a unique perspective to any project, and I am always eager to learn and grow as a professional.
 
@@ -14,7 +14,7 @@ If you have any questions or if you are interested in collaborating, don't hesit
 
 Thank you for visiting my Github profile!
 
-## Hey there :wave: 
+##  
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eutectico&&theme=dark&layout=compact">
   <br>
