@@ -4,9 +4,9 @@ I am a IT-Security enthusiast, Unix/Linux administrator, and software developer 
 
 Here are some of the technologies I have worked with:
 
-    IT-Security: Penetration testing, Vulnerability Assessment, Threat hunting, Digital Forensics
-    Unix/Linux administration: bash scripting, network security, system administration
-    Software development: Python, Go, Java, JavaScript
+* IT-Security: Penetration testing, Vulnerability Assessment, Threat hunting, Digital Forensics
+* Unix/Linux administration: bash scripting, network security, system administration
+* Software development: Python, Go, Java, JavaScript
 
 You can find some of my open-source projects on this Github profile, feel free to take a look and give me feedback.
 
